@@ -8,9 +8,9 @@ A simple REST API for adding user and getting user by id .
 - **UUID Generation**: uuid package for unique id generation
 
 ## How to Run
-   open vs code
-   open terminal
-1. Clone the repository:
+1.   open vs code
+2.  open terminal
+3. Clone the repository:
    git clone https://github.com/altodevelop/REST-API.git
    cd simple-rest-api
    npm install to install dependencies 
