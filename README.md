@@ -11,6 +11,6 @@ A simple REST API for adding user and getting user by id .
 1.   open vs code
 2.  open terminal
 3. Clone the repository:
-   git clone https://github.com/altodevelop/REST-API.git
-   type npm install to install dependencies 
-   type npm run dev to run server.js file
+4. git clone https://github.com/altodevelop/REST-API.git
+5. type npm install to install dependencies 
+6. type npm run dev to run server.js file
