@@ -12,5 +12,5 @@ A simple REST API for adding user and getting user by id .
 2.  open terminal
 3. Clone the repository:
    git clone https://github.com/altodevelop/REST-API.git
-   npm install to install dependencies 
-   npm run dev to run server.js file
+   type npm install to install dependencies 
+   type npm run dev to run server.js file
